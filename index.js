@@ -11,5 +11,9 @@ function save() {
     let countStr = count + " - "
     saveEl.textContent += countStr
     countEl.textContent = 0
+<<<<<<< Updated upstream
     count = 5
+=======
+    count = 9 +9
+>>>>>>> Stashed changes
 }
